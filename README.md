@@ -1,6 +1,6 @@
 # Library-CRUD-App
 
-[Live Demo](https://powerful-coast-19850.herokuapp.com/catalog)
+[Deployed](https://powerful-coast-19850.herokuapp.com/catalog)
 
 This Web application can perform CRUD(Create-Read-Update-Delete) operations on a database of books present in a library.
 
